@@ -1,0 +1,2 @@
+# ffxiv_skill_rotation
+FFXIVのスキル回し構築用Webpage
